@@ -1,4 +1,27 @@
 merged_dataset/
 class_data/
 
+.venv/
+.vscode/
 venv/
+final_dataset_hybrid/
+
+# YOLO 학습 결과 및 로그
+runs/
+
+# 데이터셋 캐시
+*.cache
+
+# 대용량 모델 가중치 파일 (필요한 경우에만 수동으로 올리세요)
+*.pt
+*.onnx
+
+*.txt
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.bmp
+*.ico

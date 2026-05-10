@@ -1,0 +1,9 @@
+# data.yaml 내용
+path: C:/Users/pcroom2/Desktop/engineering/final_dataset_hybrid  # 이렇게 새 폴더로!
+train: train/images
+val: val/images
+
+nc: 2
+names:
+  0: Hook_Fastened
+  1: Worker
